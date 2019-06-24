@@ -1,3 +1,1 @@
-# intellectual-data-analysis
-
-Data Science and Deep Learning
+# Data Science, Deep Learning
